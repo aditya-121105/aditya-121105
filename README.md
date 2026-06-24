@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**aditya-121105/aditya-121105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CE-AIML Student (2027)
+🏫 Silver Oak University
 
-Here are some ideas to get you started:
+💻 Backend Developer | AI/ML Enthusiast | Cloud Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Python
+- FastAPI
+- Flask
+- PostgreSQL
+- Docker
+- AWS
+- GitHub Actions
+- React
+- Next.js
+
+## Featured Projects
+
+### ResumeGuide
+AI-powered resume analysis platform.
+
+### SpeakLift
+AI Interview & Viva Simulation Platform.
+
+### Tuition Management System
+Full-stack management system for tuition institutes.
+
+## Current Focus
+
+- Building SpeakLift
+- Learning AWS
+- Practicing DSA
+- Preparing for internships
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-121105&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-121105)
