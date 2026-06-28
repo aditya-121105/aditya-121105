@@ -4,9 +4,9 @@
 
 ### AI & ML Student | AWS Cloud | Building Production-Ready Intelligent Applications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarkhaniya-aditya-40337235b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya-121105)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kumarkhaniyaaditya123@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 </div>
@@ -25,12 +25,12 @@ My focus areas, in order of priority:
 4. **MLOps** — bridging the gap between trained models and production systems
 5. **Backend Development** — APIs, databases, and server-side architecture
 
-I'm drawn to the kind of work that sits at the intersection of AI systems and cloud infrastructure — designing backend architecture that's ready to scale, deploying it properly, and eventually wiring intelligent features into it. I'm not a frontend developer, and that's intentional; my interest lies in what happens on the server, in the database, and in the cloud.
+I'm drawn to the kind of work that sits at the intersection of AI systems and cloud infrastructure — designing backend architecture that's ready to scale, deploying it properly, and eventually wiring intelligent features into it.My interest lies in what happens on the server, in the database, and in the cloud.
 
 ```text
 Currently learning  : AWS Solutions Architecture, MLOps pipelines, Deep Learning fundamentals
 Currently building  : SpeakLift — an AI-assisted interview preparation platform
-Open to             : AWS Cloud Engineer / AI-ML Engineer internships
+Open to             : AWS Cloud Engineer / AI-ML Engineer Internships and Jobs
 ```
 
 <br>
@@ -51,7 +51,7 @@ Open to             : AWS Cloud Engineer / AI-ML Engineer internships
 
 **AI / Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,numpy,pandas" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,pandas" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
 
 </td>
@@ -155,14 +155,15 @@ An end-to-end platform that analyzes resumes, identifies skill gaps against targ
 **Architecture**
 
 <p align="center">
-<img src="docs/architecture/architecture-diagram.png" alt="ResumeGuide Architecture Diagram" width="80%">
+<img src="https://github.com/aditya-121105/resumeguide/blob/main/docs/architecture/user-flow.png" alt="ResumeGuide User Flow" width="80%">
+<img src="https://github.com/aditya-121105/resumeguide/blob/main/docs/architecture/aws-infrastructure.png" alt="ResumeGuide AWS Infrastructure Diagram" width="80%">
 </p>
 
 **Screenshots**
 
 <p align="center">
-<img src="docs/images/dashboard.png" alt="ResumeGuide Dashboard" width="45%">
-<img src="docs/images/analysis-result.png" alt="ResumeGuide Analysis Result" width="45%">
+<img src="https://github.com/aditya-121105/resumeguide/blob/main/docs/images/landing-page.png" alt="ResumeGuide Landing Page" width="45%">
+<img src="https://github.com/aditya-121105/resumeguide/blob/main/docs/images/dashboard.png" alt="ResumeGuide Dashboard" width="45%">
 </p>
 
 **Tech Stack:** `Python` `FastAPI` `PostgreSQL` `Docker` `AWS (EC2, ECR, S3)` `GitHub Actions`
@@ -173,9 +174,8 @@ Code Push → GitHub Actions (Build & Test) → Docker Image → ECR → EC2 Dep
 ```
 
 <p>
-<a href="https://github.com/your-username/resumeguide"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p>
+<a href="https://github.com/aditya-121105/resumeguide"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
 
 ---
 
@@ -195,14 +195,14 @@ A practical Flask-based system built to manage day-to-day operations of a tuitio
 **Screenshots**
 
 <p align="center">
-<img src="docs/screenshots/dashboard.png" alt="Tuition Management Dashboard" width="45%">
-<img src="docs/screenshots/attendance.png" alt="Attendance Module" width="45%">
+<img src="https://github.com/aditya-121105/tuition_app/blob/main/docs/screenshots/home-page.png" alt="Tuition Home Page" width="45%">
+<img src="https://github.com/aditya-121105/tuition_app/blob/main/docs/screenshots/teacher-dashboard.png" alt="Teacher Dashboard" width="45%">
 </p>
 
 **Tech Stack:** `Python` `Flask` `PostgreSQL` `SQLAlchemy`
 
 <p>
-<a href="https://github.com/your-username/tuition-management-system"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/aditya-121105/tuition_app"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 <br>
@@ -211,12 +211,12 @@ A practical Flask-based system built to manage day-to-day operations of a tuitio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aditya-121105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-121105&theme=tokyonight&hide_border=true" width="48%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-121105&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -239,8 +239,8 @@ I'm actively looking for **AWS Cloud Engineer** and **AI/ML Engineer** internshi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarkhaniya-aditya-40337235b/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarkhaniyaaditya123@gmail.com)
 
 </div>
 
