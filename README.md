@@ -18,7 +18,7 @@ Passionate about building intelligent software from backend architecture to clou
 
 <br>
 
-## About Me
+
 
 ## 👨‍💻 About Me
 
@@ -256,11 +256,6 @@ A practical Flask-based system built to manage day-to-day operations of a tuitio
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aditya-121105&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-    width="49%"
-    alt="GitHub Stats"
-  />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-121105&theme=github-dark&hide_border=true"
     width="49%"
