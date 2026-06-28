@@ -1,8 +1,13 @@
 <div align="center">
 
-# Kumarkhaniya Aditya
+<h1 align="center">Hi 👋, I'm Kumarkhaniya Aditya</h1>
 
 ### AI & ML Student | AWS Cloud | Building Production-Ready Intelligent Applications
+
+<p align="center">
+Passionate about building intelligent software from backend architecture to cloud deployment.
+</p>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarkhaniya-aditya-40337235b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya-121105)
@@ -15,17 +20,16 @@
 
 ## About Me
 
-I'm a Computer Engineering student specializing in Artificial Intelligence & Machine Learning at Silver Oak University, graduating in 2027. I'm not claiming to be an expert — I'm an engineer-in-progress who genuinely enjoys building intelligent applications across the full lifecycle: from backend architecture and database design to cloud deployment and CI/CD.
+## 👨‍💻 About Me
 
-My focus areas, in order of priority:
+I'm a **B.Tech Computer Engineering (Artificial Intelligence & Machine Learning)** student at **Silver Oak University** (Class of 2027), passionate about building intelligent software that solves real-world problems.
 
-1. **AWS Cloud Engineering** — infrastructure, deployment, and scalable backend systems
-2. **AI/ML Engineering** — applied machine learning in real, working products
-3. **Deep Learning** — neural network architectures and model development
-4. **MLOps** — bridging the gap between trained models and production systems
-5. **Backend Development** — APIs, databases, and server-side architecture
+My interests span **AWS Cloud, Artificial Intelligence, Machine Learning, Deep Learning, and MLOps**, with a strong focus on designing applications that are reliable, scalable, and ready for production. I enjoy taking projects beyond experimentation by building backend systems, designing databases, containerizing applications with Docker, and deploying them on AWS.
 
-I'm drawn to the kind of work that sits at the intersection of AI systems and cloud infrastructure — designing backend architecture that's ready to scale, deploying it properly, and eventually wiring intelligent features into it.My interest lies in what happens on the server, in the database, and in the cloud.
+Currently, I'm building **SpeakLift**, an AI-powered interview and communication platform, while continuously strengthening my knowledge of cloud architecture, machine learning, and production software engineering.
+
+I'm actively seeking internship opportunities in **AWS Cloud Engineering**, **AI/ML Engineering**, and **MLOps**, where I can contribute to real-world products while continuing to grow as an engineer.
+
 
 ```text
 Currently learning  : AWS Solutions Architecture, MLOps pipelines, Deep Learning fundamentals
@@ -152,19 +156,40 @@ An end-to-end platform that analyzes resumes, identifies skill gaps against targ
 - Containerized backend, deployed to AWS
 - Automated build and deployment pipeline via GitHub Actions
 
-**Architecture**
+### 🏗️ System Architecture
 
 <p align="center">
-<img src="https://github.com/aditya-121105/resumeguide/blob/main/docs/architecture/user-flow.png" alt="ResumeGuide User Flow" width="80%">
-<img src="https://github.com/aditya-121105/resumeguide/blob/main/docs/architecture/aws-infrastructure.png" alt="ResumeGuide AWS Infrastructure Diagram" width="80%">
+  <img src="https://github.com/aditya-121105/resumeguide/blob/main/docs/architecture/user-flow.png" alt="ResumeGuide User Flow" width="90%">
 </p>
-
-**Screenshots**
 
 <p align="center">
-<img src="https://github.com/aditya-121105/resumeguide/blob/main/docs/images/landing-page.png" alt="ResumeGuide Landing Page" width="45%">
-<img src="https://github.com/aditya-121105/resumeguide/blob/main/docs/images/dashboard.png" alt="ResumeGuide Dashboard" width="45%">
+  <sub><b>End-to-end workflow from resume upload to personalized ATS analysis and learning roadmap generation.</b></sub>
 </p>
+
+<br>
+
+### ☁️ AWS Deployment Architecture
+
+<p align="center">
+  <img src="https://github.com/aditya-121105/resumeguide/blob/main/docs/architecture/aws-infrastructure.png" alt="ResumeGuide AWS Infrastructure" width="90%">
+</p>
+
+<p align="center">
+  <sub><b>Production deployment architecture using Docker, GitHub Actions, Amazon ECR, ECS and AWS services.</b></sub>
+</p>
+
+<br>
+
+### 📸 Project Preview
+
+<p align="center">
+  <img src="https://github.com/aditya-121105/resumeguide/blob/main/docs/images/ats-analysis-demo.gif" alt="ResumeGuide Demo" width="90%">
+</p>
+
+<p align="center">
+  <sub><b>Resume upload, ATS score analysis, skill-gap detection, dashboard analytics and personalized learning roadmap.</b></sub>
+</p>
+
 
 **Tech Stack:** `Python` `FastAPI` `PostgreSQL` `Docker` `AWS (EC2, ECR, S3)` `GitHub Actions`
 
@@ -192,12 +217,33 @@ A practical Flask-based system built to manage day-to-day operations of a tuitio
 - Timetable scheduling
 - Fee management and tracking
 
-**Screenshots**
+### 📸 Screenshots
 
-<p align="center">
-<img src="https://github.com/aditya-121105/tuition_app/blob/main/docs/screenshots/home-page.png" alt="Tuition Home Page" width="45%">
-<img src="https://github.com/aditya-121105/tuition_app/blob/main/docs/screenshots/teacher-dashboard.png" alt="Teacher Dashboard" width="45%">
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<b>Landing Page</b><br><br>
+<img src="https://github.com/aditya-121105/tuition_app/blob/main/docs/screenshots/home-page.png" width="420">
+</td>
+
+<td align="center">
+<b>Admin Dashboard</b><br><br>
+<img src="https://github.com/aditya-121105/tuition_app/blob/main/docs/screenshots/teacher-dashboard.png" width="420">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Student Management</b><br><br>
+<img src="https://github.com/aditya-121105/tuition_app/blob/main/docs/screenshots/student-management.png" width="420">
+</td>
+
+<td align="center">
+<b>Attendance Management</b><br><br>
+<img src="https://github.com/aditya-121105/tuition_app/blob/main/docs/screenshots/attendance-management.png" width="420">
+</td>
+</tr>
+</table>
 
 **Tech Stack:** `Python` `Flask` `PostgreSQL` `SQLAlchemy`
 
@@ -207,19 +253,24 @@ A practical Flask-based system built to manage day-to-day operations of a tuitio
 
 <br>
 
-## GitHub Stats
+## 📈 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aditya-121105&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-121105&theme=github-dark&hide_border=true"
+    width="49%"
+    alt="GitHub Streak"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aditya-121105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-121105&theme=tokyonight&hide_border=true" width="48%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-121105&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
+<p align="center">
+  <i>Consistent learning, continuous improvement, and building production-ready software.</i>
+</p>
 <br>
 
 ## Currently Learning & Building Toward
