@@ -287,6 +287,13 @@ I'm actively looking for **AWS Cloud Engineer** and **AI/ML Engineer** internshi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarkhaniya-aditya-40337235b/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarkhaniyaaditya123@gmail.com)
+## 🌐 Portfolio
+
+Explore my projects, technical skills, certifications, experience, and more.
+
+**🔗 Live Portfolio:** https://decode-adi.vercel.app
+
+💬 The portfolio also includes an interactive assistant to help visitors explore my work.
 
 </div>
 
