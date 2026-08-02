@@ -36,7 +36,6 @@ Currently learning  : AWS Solutions Architecture, MLOps pipelines, Deep Learning
 Currently building  : SpeakLift — an AI-assisted interview preparation platform
 Open to             : AWS Cloud Engineer / AI-ML Engineer Internships and Jobs
 ```
-
 <br>
 
 ## Tech Stack
